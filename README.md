@@ -24,10 +24,10 @@ I'm a developer with a special interest in all kinds of malware, exploits, and c
 
 ### Tools:
 
-<code><img title="Visual Studio Code" height="25" src="assets/tools/visual-studio-code.png"></code>
-<code><img title="Wireshark" height="25" src="assets/tools/wireshark-icon.png"></code>
+<code><img title="Visual Studio Code" height="25" src="assets/visual-studio-code.png"></code>
+<code><img title="Wireshark" height="25" src="assets/wireshark-icon.png"></code>
 <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-<code><img title="Bash" height="25" src="assets/tools/terminal.png" alt="terminal"></code>
+<code><img title="Bash" height="25" src="assets/tterminal.png" alt="terminal"></code>
 <!-- "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" -->
 
 ### Projects:
