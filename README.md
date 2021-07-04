@@ -11,7 +11,7 @@ I'm a developer with a special interest in all kinds of malware, exploits, and c
 
 ### Personal information:
  
-- 🛠 &nbsp; I’m currently working with Python, Flutter, C++ and Java.
+- 🛠 &nbsp; I’m currently working with Node.js and Javascript.
 - 📱 &nbsp; I'm currently working on a security related app for Android and iOS.
 - 💻 &nbsp; My non hacking/malware related projects are available [here](https://github.com/Mistakx?tab=repositories).
 - 📫 &nbsp; Reach me at: ade9@live.com.pt.
