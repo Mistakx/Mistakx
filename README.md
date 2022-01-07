@@ -11,19 +11,19 @@ I'm a developer with a special interest in all kinds of malware, exploits, and c
 
 ### Personal information:
  
-- 🛠 &nbsp; I’m currently working with Node.js and Javascript.
+- 🛠 &nbsp; I’m currently working with Node.js and Golang.
 - 📱 &nbsp; I'm currently working on a security related app for Android and iOS.
 - 💻 &nbsp; My non hacking/malware related projects are available [here](https://github.com/Mistakx?tab=repositories).
 - 📫 &nbsp; Reach me at: ade9@live.com.pt.
 
-### Languages/Frameworks:
+### Languages/Frameworks I love the most:
 
-<code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
+<code><img title="C++" height="25" src="assets/cpp.svg"></code>
 <code><img title="Flutter" height="25" src="assets/flutter.png"></code>
-<code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-<code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+<code><img title="Python" height="25" src="assets/python.svg"></code>
+<code><img title="Golang" height="25" src="assets/golang.svg"></code>
 
-### Tools:
+### Tools that I use on a daily basis:
 
 <code><img title="Visual Studio Code" height="25" src="assets/visual-studio-code.png"></code>
 <code><img title="Wireshark" height="25" src="assets/wireshark-icon.png"></code>
