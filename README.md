@@ -22,6 +22,7 @@ I'm a developer with a special interest in all kinds of malware, exploits, and c
 <code><img title="Flutter" height="25" src="assets/flutter.png"></code>
 <code><img title="Python" height="25" src="assets/python.svg"></code>
 <code><img title="Golang" height="25" width="25" src="assets/golang.svg"></code>
+<code><img title="Node.js" height="25" width="25" src="assets/node2.svg"></code>
 
 ### Tools that I use on a daily basis:
 
