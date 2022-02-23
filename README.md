@@ -8,8 +8,8 @@
 I'm a developer with a special interest in all kinds of malware, exploits, and cyber security in general.
 <!-- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
 
-<img align="right" height="250" width="375" alt="" src="https://i.giphy.com/media/8fRwPZtbWkkX6/giphy.webp" />
-
+<!-- <img align="right" height="250" width="375" alt="" src="https://i.giphy.com/media/8fRwPZtbWkkX6/giphy.webp" /> -->
+<img align="right" height="250" width="400" alt="" src="https://github.com/Mistakx/DefenderBot/blob/main/assets/horn.jpeg" />
 ### Personal information:
  
 - 🛠 &nbsp; I’m currently working with Node.js and Golang.
