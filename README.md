@@ -16,4 +16,3 @@ I'm proud to have won Sky Madeira's 2022 competition, check the repository out [
 
 - 🛠 &nbsp; At work, I'm a Swift mobile developer.
 - 🏠 &nbsp; At home, I tend to develop various software mainly using C++ and Go.
-- 📫 &nbsp; Reach me at: ade9@live.com.pt.
