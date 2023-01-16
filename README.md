@@ -1,4 +1,4 @@
-## Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm [Sérgio Oliveira!](https://github.com/Mistakx/)
+## Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Sérgio Oliveira.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-2554da?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-n-oliveira/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/Mistakx/)
