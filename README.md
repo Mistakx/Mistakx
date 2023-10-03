@@ -4,7 +4,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-bf1d00?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCgPqmKIfUjk91vQJC4mvoJA)
 [![WakaTime Badge](https://img.shields.io/badge/-WakaTime-0cc7e8?style=flat-square&logo=WakaTime&logoColor=white)](https://wakatime.com/@Mistakx)
 
-I'm a mobile developer with a special interest in all kinds of malware, exploits, and cyber security in general. <br>
+I'm a mobile developer with a special interest in cyber security. <br>
 I'm proud to have won Sky Madeira's 2022 competition, check the repository out [here.](https://github.com/Mistakx/NET6React)
 <!-- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
 
@@ -14,4 +14,4 @@ I'm proud to have won Sky Madeira's 2022 competition, check the repository out [
 ### Personal information:
 
 - 🛠 &nbsp; At work, I'm a Swift mobile developer.
-- 🏠 &nbsp; At home, I tend to develop various software mainly using C++ and Go.
+- 🏠 &nbsp; At home, I tend to develop various software mainly using Rust and Go.
